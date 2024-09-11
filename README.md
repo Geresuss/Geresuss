@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Full Stack 
 -   I’m looking to collaborate on Front End Projects
-- 📫 How to reach me f_gebreyesus@fanshaweonline.ca
+- 📫 How to reach me fares.amanuel@gmail.com
 - ⚡ Fun fact: I speak four languages
 
 <!---

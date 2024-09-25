@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Fares
-- 👀 I’m interested in ..
 - 🌱 I’m currently learning Full Stack 
 -   I’m looking to collaborate on Front End Projects
 - ⚡ Fun fact: I speak four languages
